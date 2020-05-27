@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201770737785",
+    "firebase_url": "https://snapshare-8c712.firebaseio.com",
+    "project_id": "snapshare-8c712",
+    "storage_bucket": "snapshare-8c712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201770737785:android:152deea0363c7aaf14b4a8",
+        "android_client_info": {
+          "package_name": "com.example.snapshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201770737785-uvqr3p94qkib46j8ehj1ell24kb20eab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFw-axLqz3B4p3ocswxUwyn7t-HRvEVIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201770737785-uvqr3p94qkib46j8ehj1ell24kb20eab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
